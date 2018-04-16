@@ -4,7 +4,7 @@
   "description": "Simple Javascript app",
   "main": "main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "electron ."
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/prashant9912/Spotlight-Desktop/issues"
   },
-  "homepage": "https://github.com/prashant9912/Spotlight-Desktop#readme"
+  "homepage": "https://github.com/prashant9912/Spotlight-Desktop#readme",
+  "devDependencies": {
+    "electron": "^1.8.4"
+  },
+  "dependencies": {
+    "winjs": "^4.4.3"
+  }
 }
