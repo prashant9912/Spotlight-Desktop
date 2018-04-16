@@ -1,11 +1,12 @@
 body{
-    padding: 0;
-    margin: 0;
-    width: 100%;
+    padding:0px;
+    margin: 10px;
+    width: 98%;
     height: 100%;
     background-color:#1F4788;
     position: relative;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white
 }
 
 .content,
@@ -76,4 +77,21 @@ body{
 .msg {
     color: black;
     opacity: 0.7;
+}
+
+.bol{
+    display: flex;
+    justify-content: space-between;
+}
+.h{
+    border-radius: 5px; 
+    padding:8px;
+    text-align: center;
+    width: 20%;    
+    background-color: #eee;
+    color:black;
+
+    -moz-box-shadow:    inset 0 0 2px #000000;
+   -webkit-box-shadow: inset 0 0 2px #000000;
+   box-shadow:          0 0 2px #000000;
 }
