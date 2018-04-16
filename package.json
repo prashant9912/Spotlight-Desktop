@@ -1,0 +1,19 @@
+{
+  "name": "sportlight-desktop",
+  "version": "1.0.0",
+  "description": "Simple Javascript app",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prashant9912/Spotlight-Desktop.git"
+  },
+  "author": "Prashant Gupta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prashant9912/Spotlight-Desktop/issues"
+  },
+  "homepage": "https://github.com/prashant9912/Spotlight-Desktop#readme"
+}
